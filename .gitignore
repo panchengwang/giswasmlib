@@ -33,6 +33,13 @@
 .DS_Store
 
 build
+# src/GDAL/
+# src/LICENSE
+# src/PROJ/
+# src/geos/
+# src/libgeotiff/
+# src/sqlite*
+# src/tiff
 
 CMakeLists.txt
 
